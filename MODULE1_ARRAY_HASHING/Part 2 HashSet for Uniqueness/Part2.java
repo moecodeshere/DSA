@@ -229,9 +229,6 @@ idea is both the pointers meet at some point after many iterations,it could be a
     }return -1;
 
   }
-
-  //^ Custom: Find all elements that appear exactly once (no maps)
-
 public static void main(String[] args){
     //int[] arr ={1,2,3};
     int[] q= {3,7,2,6,43,9,91,455,92};

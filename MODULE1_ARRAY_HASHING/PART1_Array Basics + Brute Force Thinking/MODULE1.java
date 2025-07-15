@@ -287,3 +287,4 @@ public static void main(String[] args) {
    //System.out.println(Arrays.toString(result)); 
 }
 }
+//Total questions/problems covered: 12 main unique problem types 
